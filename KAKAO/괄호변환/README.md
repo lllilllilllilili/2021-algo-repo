@@ -1,5 +1,7 @@
 ## 괄호변환 문제 설명
 
+| 문제 링크 : https://programmers.co.kr/learn/courses/30/lessons/60058?language=java
+
 | 접근 : 재귀함수 (탐색)
 
 | 종류 : 구현(문제에 대한 이해가 중요)

@@ -1,5 +1,7 @@
 ## 수식최대화 문제 설명
 
+| 문제 링크 : https://programmers.co.kr/learn/courses/30/lessons/67257
+
 | 접근 : 분할탐색 (작은것으로 큰걸 만든다.)
 
 | 종류 : 재귀에 대한 이해, 분할탐색 개념
