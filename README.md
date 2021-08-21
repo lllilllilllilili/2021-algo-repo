@@ -8,4 +8,9 @@
 
 ## 21/08/21
 
+<<<<<<< HEAD
 - [KAKAO\_거리두기확인하기(LEVEL2 | ver. python)]()
+=======
+### 유형
+https://www.hanbit.co.kr/channel/category/category_view.html?cms_code=CMS4385594264
+>>>>>>> 0a44f83484ceeb7020e3a8c69bdf959b4f3fb019
