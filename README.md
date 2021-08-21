@@ -8,9 +8,8 @@
 
 ## 21/08/21
 
-<<<<<<< HEAD
-- [KAKAO\_거리두기확인하기(LEVEL2 | ver. python)]()
-=======
+- [KAKAO\_거리두기확인하기(LEVEL2 | ver. python)](https://github.com/lllilllilllilili/2021-algo-repo/tree/master/KAKAO/%EA%B1%B0%EB%A6%AC%EB%91%90%EA%B8%B0%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0)
+
 ### 유형
+
 https://www.hanbit.co.kr/channel/category/category_view.html?cms_code=CMS4385594264
->>>>>>> 0a44f83484ceeb7020e3a8c69bdf959b4f3fb019
