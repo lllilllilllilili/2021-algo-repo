@@ -10,6 +10,18 @@
 
 - [KAKAO\_거리두기확인하기(LEVEL2 | ver. python)](https://github.com/lllilllilllilili/2021-algo-repo/tree/master/KAKAO/%EA%B1%B0%EB%A6%AC%EB%91%90%EA%B8%B0%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0)
 
+## 21/08/23
+
+- [KAKAO\_메뉴리뉴얼(LEVEL2 | ver. python)](https://github.com/lllilllilllilili/2021-algo-repo/blob/master/KAKAO/menu%2Brenewal.py)
+
+## 21/08/24
+
+- [KAKAO\_광고삽입](LEVEL3 | ver.java)()
+
+## 21/08/25
+
+- [KAKAO\_합승택시요굼](LEVEL3 | ver.java)()
+
 ### 유형
 
 https://www.hanbit.co.kr/channel/category/category_view.html?cms_code=CMS4385594264
