@@ -16,7 +16,7 @@
 
 ## 21/08/24
 
-- [KAKAO\_광고삽입](LEVEL3 | ver.java)()
+- [KAKAO\_광고삽입](LEVEL3 | ver.java)(https://github.com/lllilllilllilili/2021-algo-repo/blob/master/KAKAO/%EA%B4%91%EA%B3%A0%EC%82%BD%EC%9E%85/%EA%B4%91%EA%B3%A0%EC%82%BD%EC%9E%85.java)
 
 ## 21/08/25
 
