@@ -16,11 +16,11 @@
 
 ## 21/08/24
 
-- [KAKAO\_광고삽입](LEVEL3 | ver.java)(https://github.com/lllilllilllilili/2021-algo-repo/blob/master/KAKAO/%EA%B4%91%EA%B3%A0%EC%82%BD%EC%9E%85/%EA%B4%91%EA%B3%A0%EC%82%BD%EC%9E%85.java)
+- [KAKAO\_광고삽입(LEVEL3 | ver.java)](https://github.com/lllilllilllilili/2021-algo-repo/blob/master/KAKAO/%EA%B4%91%EA%B3%A0%EC%82%BD%EC%9E%85/%EA%B4%91%EA%B3%A0%EC%82%BD%EC%9E%85.java)
 
 ## 21/08/25
 
-- [KAKAO\_합승택시요굼](LEVEL3 | ver.java)()
+- [KAKAO\_합승택시요굼(LEVEL3 | ver.java)](https://github.com/lllilllilllilili/2021-algo-repo/blob/master/KAKAO/%ED%95%A9%EC%8A%B9%ED%83%9D%EC%8B%9C%EC%9A%94%EA%B8%88/%ED%95%A9%EC%8A%B9%ED%83%9D%EC%8B%9C%EC%9A%94%EA%B8%88.java)
 
 ### 유형
 
