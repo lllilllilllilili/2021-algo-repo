@@ -24,7 +24,7 @@
 
 ## 21/08/30
 
-- [KAKAO\_파일명정렬(LEVEL3 | ver.java)](https://github.com/lllilllilllilili/2021-algo-repo/blob/master/KAKAO/%ED%8C%8C%EC%9D%BC%EB%AA%85%EC%A0%95%EB%A0%AC/%ED%8C%8C%EC%9D%BC%EB%AA%85%EC%A0%95%EB%A0%AC.py)
+- [KAKAO\_파일명정렬(LEVEL3 | ver.python)](https://github.com/lllilllilllilili/2021-algo-repo/blob/master/KAKAO/%ED%8C%8C%EC%9D%BC%EB%AA%85%EC%A0%95%EB%A0%AC/%ED%8C%8C%EC%9D%BC%EB%AA%85%EC%A0%95%EB%A0%AC.py)
 
 ### 유형
 
