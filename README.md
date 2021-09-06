@@ -38,6 +38,10 @@
 
 - [KAKAO\_표편집\_다른풀이(LEVEL3 | ver.python)](https://github.com/lllilllilllilili/2021-algo-repo/blob/master/KAKAO/%ED%91%9C%ED%8E%B8%EC%A7%91/%ED%91%9C%ED%8E%B8%EC%A7%912.py)
 
+## 21/09/06
+
+- [BOJ_10282\_해킹(골드4 | ver.python)]()
+
 ### 유형
 
 https://www.hanbit.co.kr/channel/category/category_view.html?cms_code=CMS4385594264
