@@ -40,7 +40,7 @@
 
 ## 21/09/06
 
-- [BOJ_10282\_해킹(골드4 | ver.python)]()
+- [BOJ_10282\_해킹(골드4 | ver.python)](https://github.com/lllilllilllilili/2021-algo-repo/tree/master/Algorithm)
 
 ### 유형
 
