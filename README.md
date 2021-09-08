@@ -43,8 +43,13 @@
 - [BOJ_10282\_해킹(골드4 | ver.python)](https://github.com/lllilllilllilili/2021-algo-repo/tree/master/Algorithm)
 
 ## 21/09/07
+
 - [KAKAO\_미로탈출(LEVEL4 | ver.python](https://github.com/lllilllilllilili/2021-algo-repo/tree/master/KAKAO/%EB%AF%B8%EB%A1%9C%ED%83%88%EC%B6%9C)
-- 
+
+## 21/09/08
+
+- [KAKAO\_디스크컨트롤러(LEVEL3 | ver.python](./2021-algo-repo/KAKAO/디스크컨트롤러/디스크컨트롤러.py)
+
 ### 유형
 
 https://www.hanbit.co.kr/channel/category/category_view.html?cms_code=CMS4385594264
