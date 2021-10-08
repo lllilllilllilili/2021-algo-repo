@@ -54,6 +54,12 @@
 
 - [N으로표현하는수(LEVEL3 | ver.python](./2021-algo-repo/Algorithm/N으로표현하는수.py)
 
+## 21/10/08
+
+- [LCS(실버 | ver.python](./2021-algo-repo/Algorithm/BOJ_9251_LCS.py)
+
+- [N으로표현하는수(LEVEL3 | ver.python](./2021-algo-repo/Algorithm/N으로표현하는수.py)
+
 ### 유형
 
 https://www.hanbit.co.kr/channel/category/category_view.html?cms_code=CMS4385594264
